@@ -27,7 +27,7 @@ Follow these steps to download and run the app:
    Open your terminal or command prompt and run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/PriyanshParikh27/ShoeMart.git
+   git clone https://github.com/PriyanshParikh27/Connect-and-Capture.git
    ```
 2. **Open the Project in Android Studio:**
 
